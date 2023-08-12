@@ -1,1 +1,2 @@
 Manuel Fernando Menza Perdomo, edad 19, mis aspiraciones con la materia es poder acceder a nuevos conocimientos relacinados con el mundo de la programación y aprender nuevas cosas.
+No dejo hacer comit por que la carpeta estaba vacia, luego de crear un nuevo archivo de texto, ya me dejo hacer comit 
